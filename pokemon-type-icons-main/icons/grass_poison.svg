@@ -1,10 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="2048" height="1024" viewBox="0 0 2048 1024">
   <!-- Primer icono (Grass) -->
   <svg x="200" y="100" width="800" height="800" viewBox="0 0 256 256">
     <defs>
       <style>
-        .grass-cls-1 { fill: #fff; }
-        .grass-cls-2 { fill: #439837; } /* Verde para Grass */
+        .grass-cls-1 {
+          fill: #fff;
+        }
+        .grass-cls-2 {
+          fill: #439837; /* Verde para Grass */
+        }
       </style>
     </defs>
     <circle class="grass-cls-2" cx="128" cy="128" r="128"/>
@@ -17,8 +22,12 @@
   <svg x="1048" y="100" width="800" height="800" viewBox="0 0 256 256">
     <defs>
       <style>
-        .poison-cls-1 { fill: #fff; }
-        .poison-cls-2 { fill: #9354cb; } /* Morado para Poison */
+        .poison-cls-1 {
+          fill: #fff;
+        }
+        .poison-cls-2 {
+          fill: #9354cb; /* Morado para Poison */
+        }
       </style>
     </defs>
     <circle class="poison-cls-2" cx="128" cy="128" r="128"/>
